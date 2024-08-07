@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @slegro97
-- 👀 I’m interested in becoming a Python Dev
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anything
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently making a big move to San Diego!
+- 💞️ I’m looking to collaborate on Python-based projects
 - 📫 How to reach me: sam.legro97@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I majored in Math and Philosophy in college, so coding is my next challenge to conquer
+- ⚡ Fun fact: I majored in Math and Philosophy in college, so coding is a skill I have mostly taught myself
 
 <!---
 slegro97/slegro97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
