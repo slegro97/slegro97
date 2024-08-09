@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @slegro97
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently making a big move to San Diego!
-- 💞️ I’m looking to collaborate on Python-based projects
-- 📫 How to reach me: sam.legro97@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I majored in Math and Philosophy in college, so coding is a skill I have mostly taught myself
+Hi, I am Sam LeGro, a former high school math teacher with expertise in Mathematics, computer programming, and data analysis, who is transitioning into the exciting field of software development. My dual degree in Mathematics and Philosophy has sharpened my analytical abilities and problem-solving skills, which I am eager to apply in unique and innovative ways within the tech industry. I’m interested in Data Science and Machine Learning, but I am always looking for new topics to explore. 
 
-<!---
-slegro97/slegro97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thanks for stopping by! Feel free to contact me at sam.legro97@gmail.com
